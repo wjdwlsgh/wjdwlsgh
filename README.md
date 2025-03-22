@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <!--nodedotjs-->
   <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <!--mongodb-->
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
   <br/>
   
