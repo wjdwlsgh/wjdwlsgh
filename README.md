@@ -55,7 +55,7 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
+  ## 😉 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwlsgh)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwlsgh)](https://github.com/anuraghazra/github-readme-stats)
