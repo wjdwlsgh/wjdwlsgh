@@ -15,7 +15,7 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## 🧱 Tech Stack 🧱
   ### Language
   <!--Java-->
  
@@ -33,7 +33,7 @@
   
   
 
-  ## Studying
+  ## 📚 Studying 📚
   <!--NextJs-->
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <!--Redux-->
