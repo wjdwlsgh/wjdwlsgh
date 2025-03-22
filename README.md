@@ -33,9 +33,9 @@
 
   ### Framework
   <!--NextJs-->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <!--Redux-->
-  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 
   <br/>
   
