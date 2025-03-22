@@ -41,13 +41,13 @@
 
   <br/>
   
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  ## 🛠 Tools 🛠
+  <!--GitHub-->
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <!--git-->
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <!--notion-->
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <br/>
   <br/>
   
