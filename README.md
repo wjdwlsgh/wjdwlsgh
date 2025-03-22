@@ -1,7 +1,8 @@
 <div>
   
   <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=300&section=header&text=Welcome%20to%20JinHo%20GitHub&fontColor=ffffff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=300&section=header&text=Welcome%20to%20JinHo%20GitHub&fontColor=ffffff&fontSize=40)
+
 
   
 </div>
