@@ -20,8 +20,7 @@
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack 🧱
-  ### Language
+  ## ✨ Tech Stack ✨
   <!--Java-->
  
   <!--JavaScript-->
