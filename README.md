@@ -1,16 +1,5 @@
 
 
-<div>
-  <!--Body-->
-  
-
-## 👀 About Me  
-#### 🙋‍♂️ Hello! I'm JinHo, studying web frontend development.  
-#### 🎯 Goal: Becoming a skilled web developer who creates amazing services!  
-#### 🎓 Currently studying at Hallym University.  
-
-  <br/>
-  <br/>
   
   ## ✨ Tech Stack ✨
   <!--Java-->
