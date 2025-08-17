@@ -1,12 +1,4 @@
-<div>
-  
-  <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=300&section=header&text=Welcome%20to%20JinHo%20GitHub&fontColor=ffffff&fontSize=50&fontAlignY=40&fontAlign=50&font=Pacifico)
 
-
-
-  
-</div>
 
 <div>
   <!--Body-->
